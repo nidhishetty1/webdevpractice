@@ -1,0 +1,22 @@
+/*element selector*/
+body {
+    background: orange;
+}
+
+ul {
+    border: 2px solid yellow;
+}
+
+/*id selector -- can be used only once in HTML*/
+#special {
+    color: green;
+}
+
+/*class selector - can be used multiple times*/
+.completed {
+    text-decoration: line-through;
+}
+
+h1 {
+    font-family: sans-serif;
+}

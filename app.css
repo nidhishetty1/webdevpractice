@@ -1,0 +1,19 @@
+h1 {
+    color: #41a0f4;
+    /*border-color: purple;
+    border-width: 5px;
+    border-style: solid;*/
+    border: thin solid blue;
+}
+li {
+    color: rgb(100, 200, 193);
+}
+h3 {
+    background: rgba(100, 0, 0, 0.2);
+    color: rgba(255, 0, 0, 0.4);
+}
+body {
+    background: url(http://cpsresources.com/wp-content/uploads/2014/12/30-0029-Dark-Woodgrain-Matte-.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
