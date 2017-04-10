@@ -1,10 +1,10 @@
 /*element selector*/
 body {
-    background: orange;
+    background: white;
 }
 
 ul {
-    border: 2px solid yellow;
+    border: 2px solid gray;
 }
 
 /*id selector -- can be used only once in HTML*/
